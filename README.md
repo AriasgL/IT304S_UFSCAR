@@ -9,30 +9,30 @@
 
 
 
-# Descrição Resumida do Projeto
+## Descrição Resumida do Projeto
 ~~~
 <A Universidade Federal de São Carlos possui 4 Unidades Consumidoras, as unidades de São Carlos e Sorocaba trabalham com a conceição da CPFL, e as unidades de Araras e Lagoa do Sino com Elektro. Todas dentro do Grupo A4.
 
 Neste projeto se estuda o consumo de 3 UC, com dados recoletados das faturas e tabelas fornecidos pelo time do curso, para assim avaliar a possibilidade da migração da UFSCAR para o mercado livre de energia.>
 ~~~
 
-# Abstract
+## Abstract
 ~~~
 <The Federal University of São Carlos has 4 Consumer Units, the São Carlos and Sorocaba units work with the concept of CPFL, and the Araras and Lagoa do Sino units with Elektro. All within the A4 Group.
 
 In this project, the consumption of 3 UCs is studied, with data collected from the invoices and tables provided by the course team, in order to evaluate the possibility of migration from UFSCAR to the energy free market.>
 ~~~
 
-# Equipe
+## Equipe
 * `<Leandro A. Arias Galicia.>`
 * `<Jose Roberto dos Santos Junior.>`
 * `<Robson F. Santos Junior.>`
 * `<Matheus Grandolpho.>`
 
-# Vídeo do Projeto
+## Vídeo do Projeto
 `<coloque um link para o vídeo apresentado o projeto.>`
 
-# Introdução e Motivação
+## Introdução e Motivação
 ~~~
 <Descrição do tema do projeto, incluindo motivação, contexto gerador e caracterização do problema. A introdução também pode apresentar iniciativas correlatas para lidar com o problema (não obrigatório) e deve introduzir de forma mais detalhada que o resumo a solução proposta e resultados alcançados. Aqui também são apresentadas as seções do projeto.>
 ~~~
@@ -41,7 +41,7 @@ In this project, the consumption of 3 UCs is studied, with data collected from t
 ~~~
  O Mercado Livre de Energia é um ambiente competitivo de negociação de energia elétrica em que os participantes podem negociar livremente todas as condições comerciais como fornecedor, preço, quantidade de energia contratada, período de suprimento, pagamento, entre outras. O Mercado Livre é um ambiente de negociação onde consumidores “livres” podem comprar energia alternativamente ao suprimento da concessionária local. Nesse ambiente, o consumidor negocia o preço da sua energia diretamente com os agentes geradores e comercializadores. Dessa forma, o cliente livre pode escolher qual será o seu fornecedor de energia. Diante o nosso contexto, neste projeto vamos analisar a viabilidade de migração da UFSCAR para o Mercado Livre através da busca das respostas das seguintes perguntas metodologicas:
 
-# Análise Prévia:
+### Análise Prévia:
 
 A Demanda Contratada está adequada? Se não, qual deveria ser a contratação?
 Há excesso de reativos? É necessário fazer correção do fator de potência da instalação?
@@ -55,7 +55,7 @@ Vale a pena migrar para o Mercado Livre? Como consumidor livre ou especial?
 <Como seu projeto propôs abordar o problema apresentado.>
 ~~~
 
-# Recursos e Métodos
+## Recursos e Métodos
 
 ## Bases de Dados
 `<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
@@ -72,7 +72,7 @@ Ferramenta | Endereço na Web | Resumo descritivo e uso
 Ferramenta 1 | http://ferramenta1.org/ | `<Descrição da Ferramenta 1 e para que ela foi usada no projeto.>`
 Ferramenta 2 | http://ferramenta2.org/ | `<Descrição da Ferramenta 2 e para que ela foi usada no projeto.>`
 
-# Metodologia
+## Metodologia
 ~~~
 <CRISP DM é a abreviação de Cross Industry Standard Process for Data Mining que, trazendo para o português, pode ser entendida como processo padrão da indústria cruzada para mineração de dados. Essa é uma metodologia capaz de transformar os dados da empresa em conhecimento e informações de gerenciamento.
 
@@ -105,6 +105,6 @@ plt.show();
 <Relate a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.>
 ~~~
 
-# Resultados e Discussão
+## Resultados e Discussão
 ~~~
 <Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
