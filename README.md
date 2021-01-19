@@ -43,9 +43,9 @@ In this project, the consumption of 3 UCs is studied, with data collected from t
 ~~~~
 ### Analise Previa:
 ~~~
-A Demanda Contratada está adequada? Se não, qual deveria ser a contratação?
-Há excesso de reativos? É necessário fazer correção do fator de potência da instalação?
-Existe tendência de crescimento no consumo de energia? E na Demanda Registrada?
+* A Demanda Contratada está adequada? Se não, qual deveria ser a contratação?
+* Há excesso de reativos? É necessário fazer correção do fator de potência da instalação?
+* Existe tendência de crescimento no consumo de energia? E na Demanda Registrada?
 ~~~~
 ### Estudo de Viabilidade de Migração para o Mercado Livre.
 
@@ -55,7 +55,7 @@ Existe tendência de crescimento no consumo de energia? E na Demanda Registrada?
 
 ## Objetivos do projeto
 ~~~
-<Como seu projeto propôs abordar o problema apresentado.>
+
 ~~~
 
 ## Recursos e Métodos
