@@ -10,18 +10,18 @@
 
 
 ## Descrição Resumida do Projeto
-~~~
+
 A Universidade Federal de São Carlos possui 4 Unidades Consumidoras, as unidades de São Carlos e Sorocaba trabalham com a conceição da CPFL, e as unidades de Araras e Lagoa do Sino com Elektro. Todas dentro do Grupo A4.
 
 Neste projeto se estuda o consumo de 3 UC, com dados recoletados das faturas e tabelas fornecidos pelo time do curso, para assim avaliar a possibilidade da migração da UFSCAR para o mercado livre de energia.
-~~~
+
 
 ## Abstract
-~~~
-<The Federal University of São Carlos has 4 Consumer Units, the São Carlos and Sorocaba units work with the concept of CPFL, and the Araras and Lagoa do Sino units with Elektro. All within the A4 Group.
 
-In this project, the consumption of 3 UCs is studied, with data collected from the invoices and tables provided by the course team, in order to evaluate the possibility of migration from UFSCAR to the energy free market.>
-~~~
+The Federal University of São Carlos has 4 Consumer Units, the São Carlos and Sorocaba units work with the concept of CPFL, and the Araras and Lagoa do Sino units with Elektro. All within the A4 Group.
+
+In this project, the consumption of 3 UCs is studied, with data collected from the invoices and tables provided by the course team, in order to evaluate the possibility of migration from UFSCAR to the energy free market.
+
 
 ## Equipe
 
