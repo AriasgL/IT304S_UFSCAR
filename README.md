@@ -52,10 +52,15 @@ In this project, the consumption of 3 UCs is studied, with data collected from t
 
 ## Objetivos do projeto
 ~~~
-
+Análise das contas de energia das unidades da UFSCAR, são quatro campos universitários para avaliar a viabilidade de mudança do mercado cativo de energia para o mercado livre.
 ~~~
 
 ## Recursos e Métodos
+
+Contas de energia, planilhas disponibilizadas pela Unicamp. Plataformas GitHub e Colab.
+
+Vídeo do resumo do relatório:
+https://www.youtube.com/watch?v=LwBuVdcCWZ4&feature=youtu.be
 
 ## Bases de Dados
 
