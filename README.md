@@ -32,7 +32,7 @@ In this project, the consumption of 3 UCs is studied, with data collected from t
 
 ## Vídeo do Projeto
 
-`<coloque um link para o vídeo apresentado o projeto.>`
+https://www.youtube.com/watch?v=LwBuVdcCWZ4&feature=youtu.be
 
 ## Perguntas de Pesquisa
 
@@ -58,9 +58,6 @@ Análise das contas de energia das unidades da UFSCAR, são quatro campos univer
 ## Recursos e Métodos
 
 Contas de energia, planilhas disponibilizadas pela Unicamp. Plataformas GitHub e Colab.
-
-Vídeo do resumo do relatório:
-https://www.youtube.com/watch?v=LwBuVdcCWZ4&feature=youtu.be
 
 ## Bases de Dados
 
