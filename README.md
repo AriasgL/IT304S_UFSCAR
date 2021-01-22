@@ -25,9 +25,9 @@ In this project, the consumption of 3 UCs is studied, with data collected from t
 
 ## Equipe
 
-* Leandro A. Arias Galicia.
-* Jose Roberto dos Santos Junior.
-* Robson F. Santos Junior.
+* Leandro A. Arias Galicia,       RA:
+* Jose Roberto dos Santos Junior, RA: 261721
+* Robson F. Santos Junior,        RA: 
 
 
 ## Vídeo do Projeto
