@@ -64,16 +64,16 @@ Contas de energia, planilhas disponibilizadas pela Unicamp. Plataformas GitHub e
 `<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Base de Dados | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Base 1 | http://base1.org/ | `<Descrição da Base 1 e para que ela foi usada no projeto.>`
-Base 2 | http://base2.org/ | `<Descrição da Base 2 e para que ela foi usada no projeto.>`
+Base 1 | Planilhas disponibilizadas pela Unicamp | `Planilhas com os dados das unidades consumidoras disponibilizadas pela Unicamp.`
+Base 2 | Contas de energia disponibilizadas pela Unicamp | `Contas de energia das unidades consumidoras disponibilizadas pela Unicamp.`
 
 ## Ferramentas
 
 `<Elencar ferramentas utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Ferramenta 1 | http://ferramenta1.org/ | `<Descrição da Ferramenta 1 e para que ela foi usada no projeto.>`
-Ferramenta 2 | http://ferramenta2.org/ | `<Descrição da Ferramenta 2 e para que ela foi usada no projeto.>`
+Ferramenta 1 | github.com | `Ferramenta para gerenciamento de arquivos e disponibilidazação de dados.`
+Ferramenta 2 | colab.com | `Ferramenta para tratamento e análise de dados, lincada ao Github.`
 
 ## Metodologia
 
