@@ -108,5 +108,12 @@ plt.show();
 ~~~
 
 ## Resultados e Discussão
-~~~
-<Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
+
+Todas as avaliações feitas no que se diz respeito às faturas de energia dos campos independentemente da região ou da fornecedora de energia, observa-se uma grande carência no quesito controle, avaliação, monitoração, desempenho e desenvolvimento das unidades, estando sendo muitas das vezes penalizadas com relação a índices de energia reativa e também no que se diz respeito referente às demandas contratadas e registradas.
+
+Os campus devem receber auxílio ou se preparar para melhorar suas atenções com relação a seus consumos.
+
+Quanto a migração para o mercado livre de energia, conforme expressado pelo grupo, há uma dificuldade muito grande de avaliar a gestão da universidade por uma equipe contratada de consultoria, uma equipe interna ou até mesmo “educar” sobre o tema criar uma disciplina para que esta gestão possa ser feita como matéria evolutiva dentro do curso de engenharia, fazendo com que este controle seja feito de forma natural e evolutivo assim como possa treinar já alunos de graduação para este mercado de trabalho.
+
+Todos os campos estudados possuem viabilidade para a migração para o mercado livre de energia, o campos com maior facilidade decorrente da demanda de consumo são as unidades consumidoras do campus de São Carlos, com ambos superando a demanda mínima de 500 kW exigida para a migração. Os demais campus não atingem esta demanda, porém, podem ser integrados como uma única carga levando assim a disponibilidade também de acesso ao mercado livre de energia
+
